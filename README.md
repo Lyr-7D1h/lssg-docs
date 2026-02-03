@@ -1,0 +1,1 @@
+# LSSG Documentation static files
