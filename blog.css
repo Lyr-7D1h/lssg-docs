@@ -1,0 +1,39 @@
+/* Blog-specific styling */
+.blog__date {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  text-align: left;
+  font-size: 0.8em;
+  color: #666;
+  font-style: italic;
+  letter-spacing: 0.02em;
+}
+
+h1 {
+  line-height: 40px;
+  margin-bottom: 0;
+}
+h2 {
+  padding-bottom: 0;
+  margin-bottom: 10px;
+}
+p {
+  letter-spacing: -0.003em;
+  margin-bottom: 2.14em;
+  margin-top: 10px;
+  line-height: 28px;
+}
+
+@media only screen and (max-width: 768px) {
+  .blog__date {
+    margin-left: 24px;
+    margin-right: 24px;
+  }
+
+  p {
+    line-height: 22px;
+  }
+  h1 {
+    line-height: 38px;
+  }
+}
