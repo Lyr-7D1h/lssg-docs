@@ -1,0 +1,1 @@
+hljs.addPlugin(new CopyButtonPlugin({autohide: false,}));document.querySelectorAll('pre code').forEach(el => {  if (!el.matches('[class*="language-"]')) el.classList.add('language-plaintext');  hljs.highlightElement(el);});
