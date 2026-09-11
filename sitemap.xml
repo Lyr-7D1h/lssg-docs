@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>/</loc>
+  </url>
+  <url>
+    <loc>/404/</loc>
+  </url>
+  <url>
+    <loc>/architecture/</loc>
+  </url>
+  <url>
+    <loc>/configuration/</loc>
+  </url>
+  <url>
+    <loc>/custom_elements/</loc>
+  </url>
+  <url>
+    <loc>/install/</loc>
+  </url>
+  <url>
+    <loc>/lmarkdown/</loc>
+  </url>
+  <url>
+    <loc>/roadmap/</loc>
+  </url>
+  <url>
+    <loc>/tutorials/</loc>
+  </url>
+  <url>
+    <loc>/tutorials/how_to_host_static_files/</loc>
+  </url>
+  <url>
+    <loc>/usage/</loc>
+  </url>
+</urlset>
